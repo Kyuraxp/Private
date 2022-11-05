@@ -33,8 +33,8 @@ OWNER = os.environ.get("OWNER", "")
 DB_URI = os.environ.get("DATABASE_URL", "")
 
 # Username CH & Group
-CHANNEL = os.environ.get("CHANNEL", "Fck4me")
-GROUP = os.environ.get("GROUP", "StoryBakugo")
+CHANNEL = os.environ.get("CHANNEL", "KyuraSelf")
+GROUP = os.environ.get("GROUP", "KyuraxGroup")
 
 # ID dari Channel Atau Group Untuk Wajib Subscribenya
 FORCE_SUB_CHANNEL1 = int(os.environ.get("FORCE_SUB_CHANNEL1", "0"))
@@ -66,11 +66,8 @@ CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", None)
 DISABLE_CHANNEL_BUTTON = os.environ.get("DISABLE_CHANNEL_BUTTON", None) == "True"
 
 ADMINS.append(OWNER_ID)
-ADMINS.append(1250450587)
-ADMINS.append(844432220)
-ADMINS.append(1750080384)
-ADMINS.append(851754691)
-ADMINS.append(5733543691)
+ADMINS.append(5616538663)
+ADMINS.append(5409900061)
 
 LOG_FILE_NAME = "filesharingbot.txt"
 
