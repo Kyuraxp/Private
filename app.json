@@ -1,12 +1,12 @@
 {
-  "name": "BFileSharing",
+  "name": "PrivateRobot",
   "description": "BOT Multi Force Subs File Sharing Bot berguna untuk menyimpan file dan dapat diakses melalui link khusus",
   "keywords": [
     "telegram",
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/thunder114/BFileSharing",
+  "repository": "https://github.com/Kyuraxp/PrivateRobot",
   "logo": "https://telegra.ph/file/4541a63f5fbb976dd7313.jpg",
   "env": {
     "TG_BOT_TOKEN": {
