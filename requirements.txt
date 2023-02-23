@@ -1,6 +1,6 @@
 pyrogram==1.4.1
 TgCrypto
-Pyromod
+pyromod==1.1.0
 sqlalchemy==1.3.23
 psycopg2-binary
 feedparser
